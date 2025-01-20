@@ -1,5 +1,5 @@
 ## About Me
-# Second Name: tendensy
+### Second Name: tendensy
 
 <img src="https://avatars.mds.yandex.net/i?id=cd68cbb018364a254fa9d441704b2996_l-8497136-images-thumbs&n=33&w=960&h=540" alt="">
 
@@ -25,4 +25,4 @@
 
 ## Connect with me
 
-<p align="center">1️⃣ Telegram: <a href="https://t.me/weikton_official" target="_blank">*click me*</a> Email: weikton@list.ru</p>
+<p align="center">1️⃣ Telegram: <a href="https://t.me/weikton_official" target="_blank">*click me*</a> </p>
